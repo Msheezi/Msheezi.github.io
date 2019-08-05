@@ -1145,11 +1145,11 @@ input, select, textarea {
 			background-image: url("../../images/moonlage.jpg");
 			background-size: cover;
 
- 256px 256px;
+ 				/* 256px 256px; */
 			background-position: center,
- center;
+ 			center;
 			background-repeat: no-repeat,
- repeat;
+ 			repeat;
 			z-index: 2;
 		}
 
